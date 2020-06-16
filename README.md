@@ -1,6 +1,6 @@
 # [CSU Cleary Memory Lab](http://anne.cleary.colostate.edu/)'s MINERVA2 Python model
 This model was developed based on Hintzman's MINERVA2 model for the purpose of performing simulations on how features interact within memory traces to produce echo intensities.
-This model was developed by [Kat McNeely-White](http://k.mcneelywhite.com/).
+This model was developed by [Dave](http://mcneelywhite.com) & [Kat McNeely-White](http://k.mcneelywhite.com/).
 
 To learn about the theory and mechanisms behind MINERVA2, see [Hintzman's Explanation from 1988](https://www.researchgate.net/publication/232588495_Judgments_of_frequency_and_recognition_memory_in_a_multiple-trace_model).
 

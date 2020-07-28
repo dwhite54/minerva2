@@ -33,7 +33,7 @@ class Minerva2:
     def get_echo_intensities(self, probes):
         if type(probes) != np.ndarray:
             raise Exception("Probes are not of type numpy array, fail.")
-        model_arr = np.array(model.model)
+        model_arr = np.array(self.model)
         similarities = (probes @ model_arr.T)/probes.shape[1]
         activations = similarities**3
         intensities = np.mean(activations, axis=1)
